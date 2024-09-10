@@ -2,6 +2,7 @@
 
 This is a Typescript node.js project.
 
-To run a single .ts file:
+## Set up:
+- Use node version: `>=20.0.0`
 - Install dependencies: `npm install`
-- Run the command `ts-node path/to/file.ts`
+- To run a .ts file: `ts-node path/to/file.ts`
